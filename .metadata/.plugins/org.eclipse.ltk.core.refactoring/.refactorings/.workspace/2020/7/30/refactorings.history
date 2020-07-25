@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;locationweb&apos; to &apos;City Management&apos;" description="Rename resource &apos;locationweb&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/locationweb" name="City Management" stamp="1595657925490" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;City Management&apos; to &apos;Location Management&apos;" description="Rename resource &apos;City Management&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/City Management" name="Location Management" stamp="1595658005641" updateReferences="true"/>
+</session>
